@@ -1,1 +1,0 @@
-# Provisioned_AWS_infrastructure
