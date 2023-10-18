@@ -1,23 +1,40 @@
 ### Provisioned AWS Infrastructure Can be created using following steps:
-Created VPC & Subnet
-❏ Created custom Route Table
-❏ Added Subnet Association with Route Table
-❏ Configured Default/Main Route Table
-❏ Created Security Group
-❏ Configured Default Security Group
-❏ Created EC2 Instance (Fetch AMI, Create ssh key-pair and download .pem 
-file and restrict permission)
-❏ SSH into EC2 instance
-❏ Configured ssh key pair in Terraform config file
-❏ Created EC2 Instance
+1.Created VPC & Subnet
+
+2.Created custom Route Table
+ 
+ 3.Added Subnet Association with Route Table
+ 
+ 4.Configured Default/Main Route Table
+
+ 5.Created Security Group
+ 
+ 6.Configured Default Security Group
+ 
+ 7.Created EC2 Instance (Fetch AMI, Create ssh key-pair and download .pem 
+ 
+8.file and restrict permission)
+
+ 9.SSH into EC2 instance
+ 
+ 10.Configured ssh key pair in Terraform config file
+ 
+ 11.Created EC2 Instance
 - Fetch AMI
+  
 - Create ssh key-pair and download .pem file
-- restrict permission 
-❏ SSH into EC2 instance
-❏ Automated ssh key-pair - configured ssh key pair in Terraform config file
-❏ Configured Terraform to install Docker and run nginx image
-❏ Extract shell commands to own shell script
-❏ Accessed nginx through Browser
+  
+- restrict permission
+  
+ 12.SSH into EC2 instance
+ 
+ 13.Automated ssh key-pair - configured ssh key pair in Terraform config file
+ 
+ 14.Configured Terraform to install Docker and run nginx image
+ 
+ 15.Extract shell commands to own shell script
+ 
+ 16.Accessed nginx through Browser
 
 
 
